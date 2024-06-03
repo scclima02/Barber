@@ -182,10 +182,6 @@ i {
   font-size: 38px;
   margin-bottom: 24px;
 }
-.about-description p {
-  margin-bottom: 14px;
-  line-height: 150%;
-}
 
 @media screen and (max-width: 768px) {
   .about-content {
@@ -291,8 +287,8 @@ i {
   color: #d34040;
 }
 
-.copyright a {
-  color: rgba(248, 244, 4, 0.8431372549);
+.copyright {
+  color: rgb(37, 170, 71);
 }
 
 @media screen and (max-width: 768px) {
