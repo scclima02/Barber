@@ -287,9 +287,8 @@ i {
   color: #d34040;
 }
 
-.copyright a {
+.copyright {
   color: rgb(37, 170, 71);
-  text-decoration: underline;
 }
 
 @media screen and (max-width: 768px) {
